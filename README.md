@@ -16,12 +16,3 @@ This is a simple Todo app built with React, Recoil, and Material-UI (MUI).
 3. Run `npm install` to install dependencies.
 4. Run `npm start` to start the development server.
 
-## Technologies Used
-
-- React
-- Recoil
-- Material-UI (MUI)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
